@@ -1,0 +1,5 @@
+name = "vikram"
+age = 23
+department = "DataEngineering"
+
+print("hello", name, "welcome your age is", age, " and department is", department)
